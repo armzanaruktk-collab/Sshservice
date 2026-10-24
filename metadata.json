@@ -1,0 +1,6 @@
+{
+  "name": "SSH Tunnel VPN",
+  "description": "Android SSH-only VPN client & manager with profile configuration, real-time tunnel logs, SOCKS5 routing, and source build guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
